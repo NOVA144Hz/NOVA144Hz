@@ -1,29 +1,32 @@
 <div align="center">
 
-<!-- ANIME HERO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:05000F,50:18002E,100:6D28D9&text=NOVA144Hz&fontSize=70&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=SOFTWARE%20%2F%2F%20CYBERSECURITY%20%2F%2F%20REVERSE%20ENGINEERING&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:05000F,45:14001F,100:7C3AED&text=NOVA144Hz&fontSize=72&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=SOFTWARE%20%2F%2F%20CYBERSECURITY%20%2F%2F%20REVERSE%20ENGINEERING&descAlignY=59&descSize=17" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=900&color=A855F7&center=true&vCenter=true&width=800&lines=Welcome+to+NOVA144Hz.;Software+Engineering+Student.;Cybersecurity+%7C+Reverse+Engineering;Building+things+from+scratch.;Learn.+Build.+Break.+Understand.;Always+exploring+the+unknown." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=INITIALIZING+NOVA144Hz...;WELCOME+TO+MY+DIGITAL+WORLD.;SOFTWARE+ENGINEERING+STUDENT.;CYBERSECURITY+%7C+REVERSE+ENGINEERING;BUILDING+WHAT+I+CAN'T+FIND.;LEARN.+BUILD.+BREAK.+UNDERSTAND." />
 
 <br><br>
 
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="700"/>
+<img src="./assets/anime-hero.gif" width="750" alt="Anime cyberpunk animation"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=NOVA144Hz&label=PROFILE%20VIEWS&color=A855F7&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/NOVA144Hz?label=FOLLOWERS&style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/github/stars/NOVA144Hz?label=STARS&style=for-the-badge&color=6D28D9"/>
 
 </div>
-
-<br>
 
 ---
 
 <div align="center">
 
-# `NOVA144Hz`
+# 🌌 NOVA144Hz
 
-### ⚡ Software Engineering Student
+### `Software Engineering Student`
 
-**Cybersecurity** • **Reverse Engineering** • **Systems Programming** • **Automation**
+**Cybersecurity** • **Reverse Engineering** • **Systems** • **Automation**
 
 <br>
 
@@ -34,24 +37,28 @@
 
 ---
 
-## 🌌 ABOUT ME
+## 🖤 ABOUT ME
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG9sM3V0Z3Q2aHk1Z2Z6cWZqY3R5b2JqM3V4bW9kM2E0d2V1cCZlcD12MV9naWQ.gif"/>
+<div align="center">
 
-I'm **NOVA144Hz**, a software engineering student who enjoys exploring the deeper side of technology.
+<img src="./assets/anime-side.gif" width="320" align="right" alt="Anime animation"/>
 
-I'm interested in understanding how software works internally, experimenting with systems, building tools, and learning through real projects.
+</div>
 
-### 🧠 What I'm into
+I'm **NOVA144Hz** — a software engineering student who enjoys exploring the deeper side of technology.
 
-- 🛡️ Cybersecurity
-- 🔬 Reverse Engineering
-- ⚙️ C / C++
-- 🐍 Python
-- 🪟 Windows Internals
-- 🤖 Automation
-- 🌐 Web Development
-- 🧩 Software Engineering
+I like building things, experimenting with systems, debugging problems that make absolutely no sense at 3 AM 💀, and learning how software works underneath the surface.
+
+### 🧠 My interests
+
+* 🛡️ Cybersecurity
+* 🔬 Reverse Engineering
+* ⚙️ C / C++
+* 🐍 Python
+* 🪟 Windows Internals
+* 🤖 Automation
+* 🌐 Web Development
+* 🧩 Software Engineering
 
 <br clear="right"/>
 
@@ -75,85 +82,147 @@ I'm interested in understanding how software works internally, experimenting wit
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=8B5CF6&center=true&vCenter=true&width=750&lines=C%2B%2B+Deep+Dive;Reverse+Engineering;Windows+Internals;Cybersecurity+Research;Low-Level+Programming;System+Architecture;Building+Better+Software"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=A855F7&center=true&vCenter=true&width=800&lines=C%2B%2B+Deep+Dive;Reverse+Engineering;Windows+Internals;Cybersecurity+Research;Low-Level+Programming;System+Architecture;Software+Engineering;Building+Better+Software"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=cpp,python,linux,windows,git&theme=dark"/>
 
 </div>
 
 ---
 
-## 🚀 PROJECT UNIVERSE
+# 🎮 NOW PLAYING
 
 <div align="center">
 
-### ⚡ NOVA
+<img src="./assets/wukong.gif" width="800" alt="Black Myth Wukong"/>
 
-**Software & Automation Ecosystem**
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=17&pause=1400&color=A855F7&center=true&vCenter=true&width=750&lines=PLAYER%3A+NOVA144Hz;GAME%3A+BLACK+MYTH%3A+WUKONG;STATUS%3A+ONLINE;MODE%3A+JOURNEY+TO+THE+WEST;MISSION%3A+DEFEAT+THE+NEXT+BOSS;XP%3A+LEVELING+UP..." />
+
+<br><br>
+
+<table>
+<tr>
+<td align="center">
+
+### 🐒 GAME
+
+**Black Myth: Wukong**
+
+</td>
+
+<td align="center">
+
+### ⚡ STATUS
+
+🟢 **PLAYING**
+
+</td>
+
+<td align="center">
+
+### 🏮 STYLE
+
+**Action RPG**
+
+</td>
+
+<td align="center">
+
+### 🔥 MAIN
+
+**The Destined One**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+> 🐒 *"A journey of a thousand miles begins with a single step."*
+
+</div>
+
+---
+
+# 🚀 PROJECT UNIVERSE
+
+<div align="center">
+
+## ⚡ NOVA
+
+### `SOFTWARE // AUTOMATION // DISCORD`
 
 Custom software, automation experiments, Discord systems and developer utilities.
 
-`PYTHON` `DISCORD` `AUTOMATION`
+**Python • Discord • APIs • Automation**
 
 <br>
 
-### 🌊 ASCEND
+## 🌊 ASCEND
 
-**Experimental Windows Software**
+### `C# // .NET // WINDOWS`
 
-Custom interfaces, utilities and Windows-based software experiments.
+Experimental Windows software, custom interfaces and utilities.
 
-`C#` `.NET` `WINDOWS`
+**C# • .NET • Windows • UI**
 
 <br>
 
-### 🤖 DISCORD ECOSYSTEM
+## 🤖 DISCORD ECOSYSTEM
 
-**Bots • Automation • APIs**
+### `BOTS // AUTOMATION // APIs`
 
 Custom Discord bots, integrations, automation systems and utilities.
 
-`PYTHON` `DISCORD.PY` `REST API`
+**Python • Discord.py • REST APIs**
 
 <br>
 
-### 🔬 RESEARCH LAB
+## 🔬 RESEARCH LAB
 
-**Low-Level Experiments**
+### `C++ // WINDOWS // RESEARCH`
 
-Reverse engineering, debugging, system concepts and programming experiments.
+Programming experiments, debugging, reverse engineering and low-level system exploration.
 
-`C++` `WINDOWS` `RESEARCH`
+**C++ • Windows • Debugging • Research**
 
 </div>
 
 ---
 
-## 🧬 MY MINDSET
+# 🧬 MY DEVELOPMENT CYCLE
 
 <div align="center">
 
-### `LEARN`
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=LEARN;BUILD;BREAK;DEBUG;UNDERSTAND;REBUILD;LEVEL+UP"/>
 
-↓  
+<br><br>
 
-### `BUILD`
-
-↓
-
-### `BREAK`
-
-↓
-
-### `UNDERSTAND`
-
-↓
-
-### `REBUILD BETTER`
+### `LEARN → BUILD → BREAK → DEBUG → UNDERSTAND → REBUILD`
 
 </div>
 
 ---
 
-## 📊 GITHUB
+# 🌙 DEVELOPER PHILOSOPHY
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1800&color=A855F7&center=true&vCenter=true&width=800&lines=Curiosity+%3E+Ego;Understanding+%3E+Copy-Paste;Building+%3E+Talking;Consistency+%3E+Motivation;The+best+way+to+learn+is+to+build." />
+
+<br><br>
+
+### ⚡ **"The deepest part of software is the part you can't see."**
+
+</div>
+
+---
+
+# 📊 GITHUB
 
 <div align="center">
 
@@ -161,11 +230,7 @@ Reverse engineering, debugging, system concepts and programming experiments.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOVA144Hz&layout=compact&hide_border=true&bg_color=00000000&title_color=A855F7&text_color=FFFFFF" height="180"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=NOVA144Hz&theme=transparent&hide_border=true&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=777777" width="70%"/>
 
@@ -173,62 +238,44 @@ Reverse engineering, debugging, system concepts and programming experiments.
 
 ---
 
-## 🐉 CONTRIBUTION QUEST
+# 🏆 ACHIEVEMENTS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NOVA144Hz&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NOVA144Hz&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%"/>
 
 </div>
 
 ---
 
-## 👁️ PROFILE SIGNAL
+# 📡 PROFILE SIGNAL
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=NOVA144Hz&label=PROFILE%20VIEWS&color=A855F7&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=NOVA144Hz&label=VISITORS&color=A855F7&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/NOVA144Hz?label=FOLLOWERS&style=for-the-badge&color=7C3AED"/>
 
-<img src="https://img.shields.io/github/stars/NOVA144Hz?label=STARS&style=for-the-badge&color=6D28D9"/>
+<img src="https://img.shields.io/github/stars/NOVA144Hz?label=TOTAL%20STARS&style=for-the-badge&color=6D28D9"/>
 
 </div>
 
 ---
 
-## 🌙 DEVELOPER PHILOSOPHY
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1800&color=A855F7&center=true&vCenter=true&width=700&lines=Curiosity+%3E+Ego;Understanding+%3E+Copy-Paste;Building+%3E+Talking;Consistency+%3E+Motivation;The+best+way+to+learn+is+to+build."/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### ⚡ `THE DEEPEST PART OF SOFTWARE IS THE PART YOU CAN'T SEE.`
-
-</div>
-
----
-
-## 🌐 CONNECT
+# 🌐 CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://github.com/NOVA144Hz">
-<img src="https://img.shields.io/badge/GitHub-NOVA144Hz-111111?style=for-the-badge&logo=github&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/GITHUB-NOVA144Hz-09090B?style=for-the-badge&logo=github&logoColor=A855F7"/>
 </a>
 
 <a href="https://discord.com">
-<img src="https://img.shields.io/badge/Discord-Connect-111111?style=for-the-badge&logo=discord&logoColor=5865F2"/>
+<img src="https://img.shields.io/badge/DISCORD-CONNECT-09090B?style=for-the-badge&logo=discord&logoColor=5865F2"/>
 </a>
 
 <a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-09090B?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 </div>
@@ -237,6 +284,33 @@ Reverse engineering, debugging, system concepts and programming experiments.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6D28D9,50:18002E,100:05000F&section=footer&animation=twinkling" width="100%"/>
+<img src="./assets/anime-footer.gif" width="750" alt="Anime footer animation"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7C3AED,50:18002E,100:05000F&section=footer&animation=twinkling" width="100%"/>
+
+### `NOVA144Hz // SYSTEM ONLINE`
+
+<sub>Still learning. Still building. Still leveling up.</sub>
 
 </div>
+```
+
+### 📁 Your repo should have these files
+
+```text
+NOVA144Hz/
+│
+├── README.md
+│
+└── assets/
+    ├── anime-hero.gif
+    ├── anime-side.gif
+    ├── wukong.gif
+    └── anime-footer.gif
+```
+
+The important difference is that **your anime/Wukong GIFs are local assets**, so you don't have to depend on random GIF URLs that disappear or stop loading. The rest of the animations are generated by the README services.
+
+For the **`wukong.gif`**, use a short Black Myth: Wukong gameplay/scene GIF; for the three anime files, use a consistent purple/black anime aesthetic. That will make the whole profile look like one designed theme rather than a bunch of unrelated widgets.
