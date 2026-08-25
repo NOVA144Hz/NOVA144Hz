@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,50:0f172a,100:7c3aed&text=STRANGE%20MAN&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=CODE%20%2F%2F%20SYSTEMS%20%2F%2F%20SECURITY&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,50:0f172a,100:7c3aed&text=NOVA144Hz&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=CODE%20%2F%2F%20SYSTEMS%20%2F%2F%20SECURITY&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Initializing+developer.exe...;Exploring+the+unknown.;Writing+code+at+3AM.;Breaking+things+to+understand+them.;Building+what+I+can't+find.;Welcome+to+my+repository." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Initializing+NOVA144Hz.exe...;Exploring+the+unknown.;Writing+code+at+3AM.;Breaking+things+to+understand+them.;Building+what+I+can't+find.;Welcome+to+my+repository." alt="Typing animation"/>
 
 <br><br>
 
@@ -18,7 +18,7 @@
 
 ## `01 // IDENTITY`
 
-### 🟣 STRANGE MAN
+### 🟣 NOVA144Hz
 
 **Software Engineering Student**
 
@@ -31,16 +31,16 @@
 
 ---
 
-## 🖥️ `TERMINAL`
+## 🖥️ `02 // TERMINAL`
 
 ```bash
-┌──[strange@github]─[~]
+┌──[nova144hz@github]─[~]
 └─$ ./profile.exe
 
 [+] Loading developer profile...
 [+] Identity confirmed.
 
-USER       : Strange Man
+USER       : NOVA144Hz
 ROLE       : Software Engineering Student
 STATUS     : ONLINE
 MODE       : BUILD
@@ -64,7 +64,7 @@ MISSION    : Understand. Build. Improve.
 
 <div align="center">
 
-## `02 // TECH STACK`
+## `03 // TECH STACK`
 
 <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,js,ts,html,css,bash&theme=dark&perline=9"/>
 
@@ -76,7 +76,7 @@ MISSION    : Understand. Build. Improve.
 
 ---
 
-## `03 // SPECIALIZATION`
+## `04 // SPECIALIZATION`
 
 <table align="center">
 <tr>
@@ -136,13 +136,13 @@ Custom Tools
 
 ---
 
-# `04 // PROJECT ARCHIVE`
+# `05 // PROJECT ARCHIVE`
 
 <div align="center">
 
 ### ⚡ NOVA
 
-> **Software & automation ecosystem**
+> **Software & Automation Ecosystem**
 
 Custom tools, automation experiments and Discord-related projects.
 
@@ -152,7 +152,7 @@ Custom tools, automation experiments and Discord-related projects.
 
 ### 🌊 ASCEND
 
-> **Experimental Windows software**
+> **Experimental Windows Software**
 
 Custom interfaces, utilities and software experiments.
 
@@ -162,7 +162,7 @@ Custom interfaces, utilities and software experiments.
 
 ### 🤖 DISCORD PROJECTS
 
-> **Bots & automation**
+> **Bots & Automation**
 
 Custom Discord bots, integrations, APIs and utilities.
 
@@ -172,7 +172,7 @@ Custom Discord bots, integrations, APIs and utilities.
 
 ### 🔬 RESEARCH LAB
 
-> **Experiments & learning projects**
+> **Experiments & Learning Projects**
 
 Reverse engineering, low-level programming, debugging and system-level experiments.
 
@@ -182,53 +182,53 @@ Reverse engineering, low-level programming, debugging and system-level experimen
 
 ---
 
-## `05 // CURRENTLY EXPLORING`
+## `06 // CURRENTLY EXPLORING`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1300&color=A78BFA&center=true&vCenter=true&width=650&lines=C%2B%2B+Deep+Dive;Reverse+Engineering;Windows+Internals;Cybersecurity+Research;Low-Level+Programming;Software+Architecture"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1300&color=A78BFA&center=true&vCenter=true&width=650&lines=C%2B%2B+Deep+Dive;Reverse+Engineering;Windows+Internals;Cybersecurity+Research;Low-Level+Programming;Software+Architecture" alt="Currently learning"/>
 
 </div>
 
 ---
 
-## `06 // GITHUB`
+## `07 // GITHUB STATS`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NOVA144Hz&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOVA144Hz&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=FFFFFF" height="180"/>
 
 </div>
 
 ---
 
-## `07 // ACTIVITY`
+## `08 // ACTIVITY`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NOVA144Hz&bg_color=00000000&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-## `08 // CONTRIBUTION MATRIX`
+## `09 // CONTRIBUTION MATRIX`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/NOVA144Hz/NOVA144Hz/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution snake"/>
 
 </div>
 
 ---
 
-## `09 // CONNECTION`
+## `10 // CONNECT`
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/NOVA144Hz">
 <img src="https://img.shields.io/badge/GITHUB-0B0B12?style=for-the-badge&logo=github&logoColor=A78BFA"/>
 </a>
 
@@ -256,6 +256,12 @@ Reverse engineering, low-level programming, debugging and system-level experimen
 ╚══════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:7c3aed,50:0f172a,100:020617&section=footer&animation=twinkling"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=777777&center=true&vCenter=true&width=500&lines=Curiosity+%3E+Ego;Understanding+%3E+Copy-Paste;Build+%3E+Talk" alt="Developer philosophy"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:7c3aed,50:0f172a,100:020617&section=footer&animation=twinkling" width="100%"/>
 
 </div>
