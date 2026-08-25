@@ -1,267 +1,277 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,50:0f172a,100:7c3aed&text=NOVA144Hz&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=CODE%20%2F%2F%20SYSTEMS%20%2F%2F%20SECURITY&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050505,45:111827,100:7C3AED&text=NOVA144Hz&fontSize=62&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=DIGITAL%20WANDERER%20%2F%2F%20CODE%20%2F%2F%20SECURITY&descAlignY=59&descSize=17" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Initializing+NOVA144Hz.exe...;Exploring+the+unknown.;Writing+code+at+3AM.;Breaking+things+to+understand+them.;Building+what+I+can't+find.;Welcome+to+my+repository." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1100&color=A78BFA&center=true&vCenter=true&width=700&lines=INITIALIZING+NOVA144Hz...;SYSTEM+ONLINE.;WELCOME+TO+MY+DIGITAL+WORLD.;CODE+%E2%80%A2+REVERSE+%E2%80%A2+BUILD;LEARN.+BREAK.+UNDERSTAND.+REBUILD." />
 
 <br><br>
 
-<img src="https://github.com/DenverCoder1/readme-typing-svg/raw/master/demo.gif" width="500"/>
+<!-- Replace this URL with your own anime GIF/banner if desired -->
+
+<img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="520"/>
 
 </div>
 
 ---
+
+## `// 01 — CHARACTER PROFILE`
 
 <div align="center">
 
-## `01 // IDENTITY`
+<table>
+<tr>
 
-### 🟣 NOVA144Hz
+<td width="58%" valign="top">
 
-**Software Engineering Student**
+# 🟣 NOVA144Hz
 
-`Cybersecurity` • `Reverse Engineering` • `Systems` • `Automation`
+### `Software Engineering Student`
 
-> *"I don't want to know only how to use something.*
-> *I want to know what happens underneath."*
+I'm a developer who likes going beneath the surface.
+
+I enjoy figuring out **how software works, why systems behave the way they do, and how to build things from scratch.**
+
+My main interests:
+
+```text
+Cybersecurity
+Reverse Engineering
+C / C++
+Python
+Windows Internals
+Automation
+Software Development
+```
+
+**Current status:** `LEARNING // BUILDING`
+
+</td>
+
+<td width="42%" align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG9sM3V0Z3Q2aHk1Z2Z6cWZqY3R5b2JqM3V4bW9kM2E0d2V1cCZlcD12MV9naWQ.gif" width="300"/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🖥️ `02 // TERMINAL`
+## `// 02 — SYSTEM TERMINAL`
 
-```bash
-┌──[nova144hz@github]─[~]
-└─$ ./profile.exe
-
-[+] Loading developer profile...
-[+] Identity confirmed.
-
-USER       : NOVA144Hz
-ROLE       : Software Engineering Student
-STATUS     : ONLINE
-MODE       : BUILD
-LOCATION   : DIGITAL WORLD
-
-INTERESTS  :
- ├── Cybersecurity
- ├── Reverse Engineering
- ├── C / C++
- ├── Python
- ├── Windows Internals
- ├── Automation
- └── Software Development
-
-MISSION    : Understand. Build. Improve.
-
-[████████████████████████████████] 100%
+```text
+╭──────────────────────────────────────────────────────────╮
+│                  NOVA144Hz // SYSTEM                     │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  USER       : NOVA144Hz                                  │
+│  CLASS      : SOFTWARE ENGINEER                          │
+│  STATUS     : ONLINE                                     │
+│  MODE       : BUILD                                      │
+│  ALIGNMENT  : CURIOUS                                    │
+│                                                          │
+│  SPECIALIZATION                                           │
+│  ├─ Cybersecurity                                        │
+│  ├─ Reverse Engineering                                  │
+│  ├─ Systems Programming                                  │
+│  └─ Automation                                           │
+│                                                          │
+│  CURRENT OBJECTIVE                                        │
+│  └─ Understand → Build → Improve                         │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
 ```
 
 ---
 
+## `// 03 — SKILL TREE`
+
 <div align="center">
 
-## `03 // TECH STACK`
+<table>
+<tr>
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,js,ts,html,css,bash&theme=dark&perline=9"/>
+### ⚔️ SOFTWARE
 
-<br><br>
+`C++`
+`C#`
+`Python`
+`JavaScript`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,windows,docker,vercel&theme=dark&perline=8"/>
+</td>
+
+<td align="center">
+
+### 🛡️ SECURITY
+
+`Cybersecurity`
+`Security Research`
+`System Analysis`
+
+</td>
+
+<td align="center">
+
+### 🔬 LOW LEVEL
+
+`Reverse Engineering`
+`Debugging`
+`Windows Internals`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,js,ts,html,css,bash,git,github,vscode,visualstudio,linux,windows,docker,vercel&perline=9"/>
 
 </div>
 
 ---
 
-## `04 // SPECIALIZATION`
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-### 🛡️
-
-**CYBERSECURITY**
-
-Security Research
-System Security
-Security Tools
-Analysis
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔬
-
-**REVERSE ENGINEERING**
-
-Binary Analysis
-Debugging
-Low-Level Concepts
-System Internals
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️
-
-**SYSTEMS**
-
-C / C++
-Windows
-Memory
-Performance
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**AUTOMATION**
-
-Python
-Discord
-APIs
-Custom Tools
-
-</td>
-</tr>
-</table>
-
----
-
-# `05 // PROJECT ARCHIVE`
+## `// 04 — PROJECT ARCHIVE`
 
 <div align="center">
 
 ### ⚡ NOVA
 
-> **Software & Automation Ecosystem**
+`SOFTWARE // AUTOMATION // DISCORD`
 
-Custom tools, automation experiments and Discord-related projects.
-
-`PYTHON` `DISCORD` `AUTOMATION`
+Custom software, automation experiments and Discord-related projects.
 
 ---
 
 ### 🌊 ASCEND
 
-> **Experimental Windows Software**
+`C# // .NET // WINDOWS`
 
-Custom interfaces, utilities and software experiments.
-
-`C#` `.NET` `WINDOWS`
+Experimental Windows software, custom interfaces and utilities.
 
 ---
 
-### 🤖 DISCORD PROJECTS
+### 🤖 DISCORD ECOSYSTEM
 
-> **Bots & Automation**
+`PYTHON // DISCORD.PY // API`
 
-Custom Discord bots, integrations, APIs and utilities.
-
-`PYTHON` `DISCORD.PY` `REST API`
+Custom bots, automation systems, integrations and utilities.
 
 ---
 
 ### 🔬 RESEARCH LAB
 
-> **Experiments & Learning Projects**
+`C++ // WINDOWS // RESEARCH`
 
-Reverse engineering, low-level programming, debugging and system-level experiments.
-
-`C++` `WINDOWS` `RESEARCH`
+Experiments involving programming, debugging, reverse engineering and system concepts.
 
 </div>
 
 ---
 
-## `06 // CURRENTLY EXPLORING`
+## `// 05 — CURRENT QUEST`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1300&color=A78BFA&center=true&vCenter=true&width=650&lines=C%2B%2B+Deep+Dive;Reverse+Engineering;Windows+Internals;Cybersecurity+Research;Low-Level+Programming;Software+Architecture" alt="Currently learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1400&color=A78BFA&center=true&vCenter=true&width=650&lines=Mastering+C%2B%2B;Learning+Reverse+Engineering;Exploring+Windows+Internals;Studying+Cybersecurity;Building+Better+Software;Going+Deeper+Than+the+Surface."/>
 
 </div>
 
 ---
 
-## `07 // GITHUB STATS`
+## `// 06 — POWER LEVEL`
+
+```text
+                    NOVA144Hz
+                       │
+              ┌────────┴────────┐
+              │   DEVELOPMENT   │
+              └────────┬────────┘
+                       │
+        ┌──────────────┼──────────────┐
+        ▼              ▼              ▼
+      C/C++          PYTHON        SECURITY
+        │              │              │
+     ████████        ████████       ██████░░
+       80%             85%             70%
+        │              │              │
+        └──────────────┼──────────────┘
+                       ▼
+                REVERSE ENGINEERING
+                       │
+                    ██████░░
+                       60%
+```
+
+*Percentages are just a visual representation of what I'm currently focusing on — not official skill measurements.*
+
+---
+
+## `// 07 — DIGITAL FOOTPRINT`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NOVA144Hz&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA" height="180"/>
+<img src="https://komarev.com/ghpvc/?username=NOVA144Hz&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOVA144Hz&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=FFFFFF" height="180"/>
+<img src="https://img.shields.io/github/followers/NOVA144Hz?label=FOLLOWERS&style=for-the-badge&color=7C3AED"/>
+
+<img src="https://img.shields.io/github/stars/NOVA144Hz?label=STARS&style=for-the-badge&color=7C3AED"/>
 
 </div>
 
 ---
 
-## `08 // ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NOVA144Hz&bg_color=00000000&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## `09 // CONTRIBUTION MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/NOVA144Hz/NOVA144Hz/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution snake"/>
-
-</div>
-
----
-
-## `10 // CONNECT`
-
-<div align="center">
-
-<a href="https://github.com/NOVA144Hz">
-<img src="https://img.shields.io/badge/GITHUB-0B0B12?style=for-the-badge&logo=github&logoColor=A78BFA"/>
-</a>
-
-<a href="https://discord.com">
-<img src="https://img.shields.io/badge/DISCORD-0B0B12?style=for-the-badge&logo=discord&logoColor=5865F2"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LINKEDIN-0B0B12?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-</div>
-
-<br>
+## `// 08 — TRANSMISSION`
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════╗
-║                                          ║
-║   CODE IS THE LANGUAGE.                  ║
-║   CURIOSITY IS THE ENGINE.               ║
-║   LEARNING NEVER STOPS.                  ║
-║                                          ║
-╚══════════════════════════════════════════╝
+╔══════════════════════════════════════════════╗
+║                                              ║
+║        "THE DEEPEST PART OF SOFTWARE         ║
+║         IS THE PART YOU CAN'T SEE."          ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 ```
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2200&color=777777&center=true&vCenter=true&width=550&lines=Curiosity+%3E+Ego;Understanding+%3E+Copy-Paste;Building+%3E+Talking;Consistency+%3E+Motivation"/>
+
+</div>
+
+---
+
+## `// 09 — CONNECTION`
+
+<div align="center">
+
+<a href="https://github.com/NOVA144Hz">
+<img src="https://img.shields.io/badge/GITHUB-08080C?style=for-the-badge&logo=github&logoColor=A78BFA"/>
+</a>
+
+<a href="https://discord.com">
+<img src="https://img.shields.io/badge/DISCORD-08080C?style=for-the-badge&logo=discord&logoColor=5865F2"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LINKEDIN-08080C?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+</div>
+
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=777777&center=true&vCenter=true&width=500&lines=Curiosity+%3E+Ego;Understanding+%3E+Copy-Paste;Build+%3E+Talk" alt="Developer philosophy"/>
+<div align="center">
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:7C3AED,50:111827,100:050505&section=footer&animation=twinkling" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:7c3aed,50:0f172a,100:020617&section=footer&animation=twinkling" width="100%"/>
+### `NOVA144Hz // SYSTEM OFFLINE`
+
+<sub>until the next commit.</sub>
 
 </div>
