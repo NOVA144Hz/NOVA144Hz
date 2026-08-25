@@ -1,257 +1,261 @@
-<!--
-██████╗ ███████╗██╗   ██╗███████╗██╗      ███████╗
-██╔══██╗██╔════╝██║   ██║██╔════╝██║      ██╔════╝
-██████╔╝█████╗  ██║   ██║█████╗  ██║      █████╗
-██╔══██╗██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║      ██╔══╝
-██║  ██║███████╗ ╚████╔╝ ███████╗███████╗███████╗
-╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚══════╝╚══════╝╚══════╝
--->
-
 <div align="center">
 
-# ⚡ STRANGE MAN
-
-### `Software Engineering Student` • `Cybersecurity Enthusiast` • `Builder`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=Building+things+that+shouldn't+exist+yet.;Learning+how+systems+really+work.;Code.+Break.+Understand.+Rebuild.;Always+curious.+Always+building." alt="Typing Animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,50:0f172a,100:7c3aed&text=STRANGE%20MAN&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=CODE%20%2F%2F%20SYSTEMS%20%2F%2F%20SECURITY&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=00ff9c&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=111111" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=STARS&style=for-the-badge&color=111111" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Initializing+developer.exe...;Exploring+the+unknown.;Writing+code+at+3AM.;Breaking+things+to+understand+them.;Building+what+I+can't+find.;Welcome+to+my+repository." />
+
+<br><br>
+
+<img src="https://github.com/DenverCoder1/readme-typing-svg/raw/master/demo.gif" width="500"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+<div align="center">
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  I don't just want to use technology.                       │
-│  I want to understand what happens underneath it.           │
-│                                                              │
-│  I'm a software engineering student who enjoys              │
-│  cybersecurity, reverse engineering, systems programming,   │
-│  automation, and building experimental projects.             │
-│                                                              │
-│  My favorite workflow:                                       │
-│                                                              │
-│       BUILD  →  BREAK  →  DEBUG  →  UNDERSTAND  →  BUILD   │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+## `01 // IDENTITY`
+
+### 🟣 STRANGE MAN
+
+**Software Engineering Student**
+
+`Cybersecurity` • `Reverse Engineering` • `Systems` • `Automation`
+
+> *"I don't want to know only how to use something.*
+> *I want to know what happens underneath."*
+
+</div>
+
+---
+
+## 🖥️ `TERMINAL`
+
+```bash
+┌──[strange@github]─[~]
+└─$ ./profile.exe
+
+[+] Loading developer profile...
+[+] Identity confirmed.
+
+USER       : Strange Man
+ROLE       : Software Engineering Student
+STATUS     : ONLINE
+MODE       : BUILD
+LOCATION   : DIGITAL WORLD
+
+INTERESTS  :
+ ├── Cybersecurity
+ ├── Reverse Engineering
+ ├── C / C++
+ ├── Python
+ ├── Windows Internals
+ ├── Automation
+ └── Software Development
+
+MISSION    : Understand. Build. Improve.
+
+[████████████████████████████████] 100%
 ```
 
-I'm constantly experimenting with new ideas, technologies, and projects.
+---
 
-Some days I'm writing Python.
+<div align="center">
 
-Some days I'm fighting C++ compiler errors.
+## `02 // TECH STACK`
 
-Some days I'm building Discord bots.
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,js,ts,html,css,bash&theme=dark&perline=9"/>
 
-And some days I'm asking myself why the code worked yesterday. 💀
+<br><br>
 
-**The goal is simple: keep learning and keep building.**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,windows,docker,vercel&theme=dark&perline=8"/>
+
+</div>
 
 ---
 
-## ⚙️ Tech Stack
+## `03 // SPECIALIZATION`
 
-### Languages
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
-<p align="center">
+### 🛡️
 
-<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,js,ts,html,css,bash" />
+**CYBERSECURITY**
 
-</p>
+Security Research
+System Security
+Security Tools
+Analysis
 
-### Tools & Technologies
+</td>
 
-<p align="center">
+<td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,windows,docker,vercel,cloudflare" />
+### 🔬
 
-</p>
+**REVERSE ENGINEERING**
 
----
+Binary Analysis
+Debugging
+Low-Level Concepts
+System Internals
 
-## 🛡️ Areas I'm Exploring
+</td>
 
-```text
-Cybersecurity
-████████████████████░░  Learning
+<td align="center" width="25%">
 
-Reverse Engineering
-███████████████░░░░░░░  Learning
+### ⚙️
+
+**SYSTEMS**
 
 C / C++
-██████████████░░░░░░░░  Building
+Windows
+Memory
+Performance
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AUTOMATION**
 
 Python
-██████████████████░░░░  Building
+Discord
+APIs
+Custom Tools
 
-Web Development
-███████████████░░░░░░░  Building
-
-Systems Programming
-███████████░░░░░░░░░░░  Exploring
-```
-
-> ⚠️ **Curiosity is the skill. Everything else can be learned.**
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 What I Build
-
-### 🤖 Automation & Bots
-
-Discord bots, automation tools, APIs, integrations and custom utilities.
-
-### 🧩 Software
-
-Windows applications, developer tools, experimental utilities and custom interfaces.
-
-### 🌐 Web
-
-Modern web applications, dashboards, APIs and deployment experiments.
-
-### 🔬 Research & Learning
-
-Reverse engineering, debugging, binary analysis, operating-system concepts and understanding how software works internally.
-
----
-
-## 🔥 Current Mindset
+# `04 // PROJECT ARCHIVE`
 
 <div align="center">
 
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│        "Don't memorize the solution.        │
-│         Understand the problem."            │
-│                                             │
-└─────────────────────────────────────────────┘
-```
+### ⚡ NOVA
 
-</div>
+> **Software & automation ecosystem**
 
-I'm still early in the journey.
+Custom tools, automation experiments and Discord-related projects.
 
-That means I'm not trying to pretend I know everything.
-
-I'm trying to become the person who can **figure things out.**
+`PYTHON` `DISCORD` `AUTOMATION`
 
 ---
 
-## 📊 GitHub Stats
+### 🌊 ASCEND
 
-<div align="center">
+> **Experimental Windows software**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff" />
+Custom interfaces, utilities and software experiments.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00ff9c&text_color=ffffff" />
+`C#` `.NET` `WINDOWS`
+
+---
+
+### 🤖 DISCORD PROJECTS
+
+> **Bots & automation**
+
+Custom Discord bots, integrations, APIs and utilities.
+
+`PYTHON` `DISCORD.PY` `REST API`
+
+---
+
+### 🔬 RESEARCH LAB
+
+> **Experiments & learning projects**
+
+Reverse engineering, low-level programming, debugging and system-level experiments.
+
+`C++` `WINDOWS` `RESEARCH`
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## `05 // CURRENTLY EXPLORING`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1300&color=A78BFA&center=true&vCenter=true&width=650&lines=C%2B%2B+Deep+Dive;Reverse+Engineering;Windows+Internals;Cybersecurity+Research;Low-Level+Programming;Software+Architecture"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## `06 // GITHUB`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=FFFFFF" height="180"/>
 
 </div>
 
 ---
 
-## 🏗️ Projects
-
-| Project             | Description                                            |
-| ------------------- | ------------------------------------------------------ |
-| ⚡ **NOVA**          | Custom software / automation ecosystem                 |
-| 🌊 **ASCEND**       | Experimental software project                          |
-| 🤖 **Discord Bots** | Custom Discord automation & utilities                  |
-| 🌐 **Polyglot**     | Language-learning web application concept              |
-| 🔬 **Experiments**  | Reverse engineering, systems & programming experiments |
-
-> More projects are constantly being built.
-
----
-
-## 🎯 2026 Goals
-
-```text
-[████████████████░░░░] Master C++
-[██████████████░░░░░░] Improve Python
-[████████████░░░░░░░░] Learn deeper cybersecurity
-[██████████░░░░░░░░░░] Understand reverse engineering
-[████████░░░░░░░░░░░░] Build serious open-source projects
-[██████░░░░░░░░░░░░░░] Contribute to the community
-```
-
----
-
-## 💻 Developer Philosophy
+## `07 // ACTIVITY`
 
 <div align="center">
 
-### `Learn → Build → Break → Debug → Repeat`
-
-<br>
-
-**Curiosity > Ego**
-
-**Understanding > Copy/Paste**
-
-**Consistency > Motivation**
-
-**Building > Talking**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## `08 // CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
+---
+
+## `09 // CONNECTION`
 
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-0B0B12?style=for-the-badge&logo=github&logoColor=A78BFA"/>
 </a>
 
 <a href="https://discord.com">
-<img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=5865F2" />
+<img src="https://img.shields.io/badge/DISCORD-0B0B12?style=for-the-badge&logo=discord&logoColor=5865F2"/>
 </a>
 
 <a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+<img src="https://img.shields.io/badge/LINKEDIN-0B0B12?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9c&height=120&section=footer" />
+```text
+╔══════════════════════════════════════════╗
+║                                          ║
+║   CODE IS THE LANGUAGE.                  ║
+║   CURIOSITY IS THE ENGINE.               ║
+║   LEARNING NEVER STOPS.                  ║
+║                                          ║
+╚══════════════════════════════════════════╝
+```
 
-### ⚡ `Still learning. Still building. Still breaking things.`
-
-<sub>Made with curiosity & too much coffee ☕</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:7c3aed,50:0f172a,100:020617&section=footer&animation=twinkling"/>
 
 </div>
