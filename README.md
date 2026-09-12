@@ -1,37 +1,48 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,45:001a13,75:00ff9c,100:000000&text=ACCESSING...&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=SYSTEM%20INITIALIZATION&descAlignY=75&descSize=16"/><br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=900&pause=250&color=00FF9C&center=true&vCenter=true&width=700&height=60&lines=%3E+INITIALIZING+SYSTEM...;%3E+LOADING+KERNEL...;%3E+SCANNING+NETWORK...;%3E+VERIFYING+IDENTITY...;%3E+ACCESS+GRANTED." /><br><br>
+<div align="center"><!-- █████████████████████████████████████████████████████████ --><!--                         BOOT                             --><!-- █████████████████████████████████████████████████████████ --><img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,25:020617,55:001f1b,80:00ff9c,100:000000&text=NOVA144Hz&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=48&desc=NEURAL%20INTERFACE&descSize=18&descAlignY=68" width="100%"/><br><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=500&pause=100&color=00FF9C&center=true&vCenter=true&width=850&height=80&lines=%5B+SYSTEM+BOOT+%5D;%3E+POWER+%3A+100%25;%3E+MEMORY+%3A+ONLINE;%3E+NETWORK+%3A+CONNECTED;%3E+IDENTITY+%3A+VERIFIED;%3E+WELCOME%2C+NOVA144Hz" /><br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&height=70&lines=SYSTEM.ONLINE;%5B+%2F%2F+NOVA144Hz+%5D;%3E_+WELCOME" /><br><img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/ACCESS-GRANTED-00ff9c?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/THREAT-UNKNOWN-ff003c?style=for-the-badge&labelColor=050505"/><br><br>
+<!-- █████████████████████████████████████████████████████████ --><!--                     RADAR / CORE                         --><!-- █████████████████████████████████████████████████████████ --><img src="https://github-readme-activity-graph.vercel.app/graph?username=NOVA144Hz&bg_color=020617&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=003d30&hide_border=true&custom_title=NEURAL%20ACTIVITY%20STREAM" width="100%"/><br><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=1100&pause=300&color=FFFFFF&center=true&vCenter=true&width=700&height=45&lines=%5B%5B+SIGNAL+LOCKED+%5D%5D;%5B%5B+SCANNING+CORE...+%5D%5D;%5B%5B+SIGNAL+STABLE+%5D%5D" /><br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1600&pause=700&color=FFFFFF&center=true&vCenter=true&width=750&height=120&lines=%24+whoami;%3E+NOVA144Hz;%24+cat+%2Fetc%2Fidentity;%3E+BUILD+%7C+BREAK+%7C+REVERSE+%7C+REBUILD;%24+./future.sh;%3E+EXECUTING..." /><br><br>
+<!-- █████████████████████████████████████████████████████████ --><!--                       CORE IMAGE                          --><!-- █████████████████████████████████████████████████████████ --><img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="280"/><br><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1800&pause=500&color=00FF9C&center=true&vCenter=true&width=700&height=55&lines=%3C+CORE%3E;%3E+BUILDING+SYSTEMS;%3E+BREAKING+LIMITS;%3E+UNDERSTANDING+THE+MACHINE;%3C%2FCORE%3E" /><br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=00ff9c"/><br><br>
+<!-- █████████████████████████████████████████████████████████ --><!--                    TERMINAL STREAM                       --><!-- █████████████████████████████████████████████████████████ -->╔══════════════════════════════════════════════════════════════╗
+║                         NOVA // OS                          ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [01] INITIALIZE                                             ║
+║       ████████████████████████████████████████  100%         ║
+║                                                              ║
+║  [02] ANALYZE                                                ║
+║       ████████████████████████████████████░░░░  92%          ║
+║                                                              ║
+║  [03] CREATE                                                 ║
+║       ██████████████████████████████████░░░░░░  86%          ║
+║                                                              ║
+║  [04] REVERSE                                                ║
+║       █████████████████████████████████████░░░  95%          ║
+║                                                              ║
+║  [05] LEARN                                                  ║
+║       ████████████████████████████████████████  ∞            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=600&color=00FF9C&center=true&vCenter=true&width=650&height=45&lines=01001000+01000101+01001100+01001100+01001111;01010111+01001111+01010010+01001100+01000100;01000011+01001111+01000100+01000101" /><br><br>
+<br><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=1500&pause=350&color=00FF9C&center=true&vCenter=true&width=800&height=100&lines=%24+sudo+./nova;%5B%2B%5D+loading+developer+module...;%5B%2B%5D+loading+security+module...;%5B%2B%5D+loading+reverse+engineering+module...;%5B%2B%5D+ALL+SYSTEMS+NOMINAL." /><br><br>
+
+<!-- █████████████████████████████████████████████████████████ --><!--                      TECHNOLOGY                          --><!-- █████████████████████████████████████████████████████████ --><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=1400&pause=500&color=00FF9C&center=true&vCenter=true&width=600&height=45&lines=%3E+TECHNOLOGY_MATRIX;%3E+LOADING+MODULES...;%3E+MODULES+ONLINE" /><br><br>
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,bash,linux,git,github,docker,vscode&theme=dark" /><br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=400&color=00FF9C&center=true&vCenter=true&width=600&height=45&lines=%5B+CORE+MODULES+LOADED+%5D;%5B+DEVELOPMENT+%5D;%5B+CYBER+%5D;%5B+REVERSE+ENGINEERING+%5D;%5B+SYSTEMS+%5D" /><br><br>
+<!-- █████████████████████████████████████████████████████████ --><!--                       DATA CORE                          --><!-- █████████████████████████████████████████████████████████ --><img src="https://github-readme-stats.vercel.app/api?username=NOVA144Hz&show_icons=true&hide_border=true&bg_color=020617&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&ring_color=00ff9c" height="165"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOVA144Hz&layout=compact&hide_border=true&bg_color=020617&title_color=00ff9c&text_color=c9d1d9" height="165"/><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=NOVA144Hz&show_icons=true&hide_border=true&bg_color=050505&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff&ring_color=00ff9c" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOVA144Hz&layout=compact&hide_border=true&bg_color=050505&title_color=00ff9c&text_color=ffffff" height="180"/><br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NOVA144Hz&theme=dark&hide_border=true&background=020617&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=00ff9c" width="650"/><br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NOVA144Hz&theme=black-ice&hide_border=true&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" width="700"/><br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1800&pause=500&color=00FF9C&center=true&vCenter=true&width=500&height=45&lines=%3E+ACTIVITY_STREAM;%3E+LIVE_DATA;%3E+MONITORING..." /><br><img src="https://github-readme-activity-graph.vercel.app/graph?username=NOVA144Hz&bg_color=050505&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" width="100%"/><br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1600&pause=600&color=00FF9C&center=true&vCenter=true&width=550&height=45&lines=%3E+CONTRIBUTION_MATRIX;%3E+SCANNING_ACTIVITY...;%3E+SIGNAL_DETECTED." /><br><br>
+<!-- █████████████████████████████████████████████████████████ --><!--                  CONTRIBUTION ENGINE                     --><!-- █████████████████████████████████████████████████████████ --><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=1200&pause=400&color=00FF9C&center=true&vCenter=true&width=700&height=50&lines=%3E+CONTRIBUTION_ENGINE;%3E+GENERATING_ACTIVITY...;%3E+SIGNAL+AMPLITUDE+RISING...;%3E+ENGINE+STABLE." /><br><br>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/><br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=00ff9c"/><br><br>
+<!-- █████████████████████████████████████████████████████████ --><!--                         GLITCH                           --><!-- █████████████████████████████████████████████████████████ --><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=25&duration=350&pause=80&color=FF003C&center=true&vCenter=true&width=750&height=55&lines=SYSTEM+WARNING;SIGNAL+CORRUPTED;RECONNECTING...;SIGNAL+RESTORED" /><br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1300&pause=300&color=00FF9C&center=true&vCenter=true&width=700&height=100&lines=%5B%2B%5D+SIGNAL+FOUND;%5B%2B%5D+CONNECTION+ESTABLISHED;%5B%2B%5D+CHANNEL+SECURE;%5B%2B%5D+TRANSMISSION+READY" /><br><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=00ff9c"/><br><br>
 
-<a href="https://github.com/NOVA144Hz">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00ff9c"/>
-</a><br><br>
+<!-- █████████████████████████████████████████████████████████ --><!--                       FINAL STATE                         --><!-- █████████████████████████████████████████████████████████ --><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=1000&pause=300&color=00FF9C&center=true&vCenter=true&width=800&height=120&lines=%3E+NO+LIMITS;%3E+NO+STATIC+STATE;%3E+ALWAYS+LEARNING;%3E+ALWAYS+BUILDING;%3E+NOVA144Hz.exe+IS+STILL+RUNNING..." /><br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=600&color=00FF9C&center=true&vCenter=true&width=650&height=70&lines=%3E+SESSION+ENDING...;%3E+ENCRYPTING+TRACE...;%3E+DELETING+LOGS...;%3E+CONNECTION+CLOSED." /><br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,35:001a13,70:00ff9c,100:000000&section=footer&animation=fadeIn"/></div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,25:001f1b,60:00ff9c,100:000000&section=footer&animation=fadeIn" width="100%"/></div>
