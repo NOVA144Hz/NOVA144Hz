@@ -1,246 +1,37 @@
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,45:001a13,75:00ff9c,100:000000&text=ACCESSING...&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=SYSTEM%20INITIALIZATION&descAlignY=75&descSize=16"/><br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=900&pause=250&color=00FF9C&center=true&vCenter=true&width=700&height=60&lines=%3E+INITIALIZING+SYSTEM...;%3E+LOADING+KERNEL...;%3E+SCANNING+NETWORK...;%3E+VERIFYING+IDENTITY...;%3E+ACCESS+GRANTED." /><br><br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&height=70&lines=SYSTEM.ONLINE;%5B+%2F%2F+NOVA144Hz+%5D;%3E_+WELCOME" /><br><img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/ACCESS-GRANTED-00ff9c?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/THREAT-UNKNOWN-ff003c?style=for-the-badge&labelColor=050505"/><br><br>
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  /* Container for the entire README – dark cyber theme */
-  body {
-    background: #0a0f1e;
-    color: #e0e0e0;
-    font-family: 'Fira Code', 'Courier New', monospace;
-    padding: 2rem;
-    max-width: 900px;
-    margin: auto;
-  }
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1600&pause=700&color=FFFFFF&center=true&vCenter=true&width=750&height=120&lines=%24+whoami;%3E+NOVA144Hz;%24+cat+%2Fetc%2Fidentity;%3E+BUILD+%7C+BREAK+%7C+REVERSE+%7C+REBUILD;%24+./future.sh;%3E+EXECUTING..." /><br><br>
 
-  /* Glitch effect for main name */
-  @keyframes glitch {
-    0% { text-shadow: 2px 2px 0 #ff00c1, -2px -2px 0 #00fff9; }
-    25% { text-shadow: -2px 2px 0 #ff00c1, 2px -2px 0 #00fff9; }
-    50% { text-shadow: 3px -1px 0 #ff00c1, -3px 1px 0 #00fff9; }
-    75% { text-shadow: 1px 3px 0 #ff00c1, -1px -3px 0 #00fff9; }
-    100% { text-shadow: 2px 2px 0 #ff00c1, -2px -2px 0 #00fff9; }
-  }
-  .glitch-text {
-    font-size: 2.8rem;
-    font-weight: bold;
-    animation: glitch 1.2s infinite step-end;
-    color: #fff;
-    display: inline-block;
-  }
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=00ff9c"/><br><br>
 
-  /* Typewriter for subtitle */
-  @keyframes typing {
-    from { width: 0; }
-    to { width: 100%; }
-  }
-  @keyframes blink-caret {
-    50% { border-color: transparent; }
-  }
-  .typewriter {
-    overflow: hidden;
-    white-space: nowrap;
-    border-right: 3px solid #00ffff;
-    animation: typing 3s steps(30) 1s forwards, blink-caret 0.75s step-end infinite;
-    width: 0;
-    font-size: 1.3rem;
-    color: #00d4ff;
-    margin: 20px 0;
-  }
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=600&color=00FF9C&center=true&vCenter=true&width=650&height=45&lines=01001000+01000101+01001100+01001100+01001111;01010111+01001111+01010010+01001100+01000100;01000011+01001111+01000100+01000101" /><br><br>
 
-  /* Pulsing neon badge */
-  @keyframes neon-pulse {
-    0%, 100% { text-shadow: 0 0 5px #ff007f, 0 0 10px #ff007f; }
-    50% { text-shadow: 0 0 20px #ff007f, 0 0 30px #ff007f, 0 0 40px #ff007f; }
-  }
-  .pulse-badge {
-    display: inline-block;
-    padding: 8px 18px;
-    border: 2px solid #ff007f;
-    border-radius: 50px;
-    background: #1a1a2e;
-    animation: neon-pulse 1.8s ease-in-out infinite;
-    margin: 6px;
-  }
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,bash,linux,git,github,docker,vscode&theme=dark" /><br><br>
 
-  /* Slide in from left for skills */
-  @keyframes slide-left {
-    from { transform: translateX(-100px); opacity: 0; }
-    to { transform: translateX(0); opacity: 1; }
-  }
-  .slide-item {
-    display: inline-block;
-    animation: slide-left 0.6s ease-out forwards;
-    opacity: 0;
-    margin-right: 10px;
-    background: #16213e;
-    padding: 5px 12px;
-    border-radius: 20px;
-    color: #a0f0ff;
-  }
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=400&color=00FF9C&center=true&vCenter=true&width=600&height=45&lines=%5B+CORE+MODULES+LOADED+%5D;%5B+DEVELOPMENT+%5D;%5B+CYBER+%5D;%5B+REVERSE+ENGINEERING+%5D;%5B+SYSTEMS+%5D" /><br><br>
 
-  /* Fade-in with bounce */
-  @keyframes bounceIn {
-    0% { transform: scale(0.3); opacity: 0; }
-    50% { transform: scale(1.05); }
-    70% { transform: scale(0.9); }
-    100% { transform: scale(1); opacity: 1; }
-  }
-  .bounce-text {
-    animation: bounceIn 1.2s ease-out;
-    display: inline-block;
-  }
+<img src="https://github-readme-stats.vercel.app/api?username=NOVA144Hz&show_icons=true&hide_border=true&bg_color=050505&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff&ring_color=00ff9c" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOVA144Hz&layout=compact&hide_border=true&bg_color=050505&title_color=00ff9c&text_color=ffffff" height="180"/><br><br>
 
-  /* Rotating gear icon (SVG animated) */
-  @keyframes spin {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-  }
-  .gear-svg {
-    animation: spin 4s linear infinite;
-    display: inline-block;
-    vertical-align: middle;
-  }
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NOVA144Hz&theme=black-ice&hide_border=true&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" width="700"/><br><br>
 
-  /* Drifting binary text */
-  @keyframes drift {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-    100% { transform: translateY(0px); }
-  }
-  .binary-drift {
-    display: inline-block;
-    animation: drift 3s ease-in-out infinite;
-    color: #39ff14;
-    font-size: 0.8rem;
-  }
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1800&pause=500&color=00FF9C&center=true&vCenter=true&width=500&height=45&lines=%3E+ACTIVITY_STREAM;%3E+LIVE_DATA;%3E+MONITORING..." /><br><img src="https://github-readme-activity-graph.vercel.app/graph?username=NOVA144Hz&bg_color=050505&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" width="100%"/><br><br>
 
-  /* Float effect for stats */
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-8px); }
-    100% { transform: translateY(0px); }
-  }
-  .float-card {
-    display: inline-block;
-    animation: float 3s ease-in-out infinite;
-    background: #1c2541;
-    padding: 10px 20px;
-    border-radius: 12px;
-    margin: 8px;
-  }
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1600&pause=600&color=00FF9C&center=true&vCenter=true&width=550&height=45&lines=%3E+CONTRIBUTION_MATRIX;%3E+SCANNING_ACTIVITY...;%3E+SIGNAL_DETECTED." /><br><br>
 
-  /* Scan lines (mask) */
-  .scanlines {
-    position: relative;
-  }
-  .scanlines::after {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: repeating-linear-gradient(
-      0deg,
-      transparent,
-      transparent 2px,
-      rgba(255,255,255,0.03) 2px,
-      rgba(255,255,255,0.03) 4px
-    );
-    pointer-events: none;
-  }
-</style>
-</head>
-<body class="scanlines">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/><br><br>
 
-<!-- HEADER with glitch effect -->
-<div style="text-align: center; margin-bottom: 15px;">
-  <span class="glitch-text">NOVA144Hz</span>
-  <br>
-  <!-- Typewriter subtitle -->
-  <div class="typewriter">Cybersecurity Reversal & Software Engineer</div>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=00ff9c"/><br><br>
 
-<!-- Animated SVG badge – pulse + gear -->
-<div style="text-align: center;">
-  <span class="pulse-badge">
-    <svg class="gear-svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#ff007f" stroke-width="2">
-      <path d="M12 2l2 4h4l1 3-3 3 1 4-4 1-3-3-4 1 1-4-3-3 1-3h4z"/>
-    </svg>
-    &#160;Reverse Engineer
-  </span>
-  <span class="pulse-badge" style="animation-delay: 0.6s;">
-    <svg class="gear-svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#00fff9" stroke-width="2">
-      <circle cx="12" cy="12" r="3"/>
-      <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>
-    </svg>
-    &#160;Software Engineer
-  </span>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1300&pause=300&color=00FF9C&center=true&vCenter=true&width=700&height=100&lines=%5B%2B%5D+SIGNAL+FOUND;%5B%2B%5D+CONNECTION+ESTABLISHED;%5B%2B%5D+CHANNEL+SECURE;%5B%2B%5D+TRANSMISSION+READY" /><br><br>
 
-<!-- Skills with unique animations per skill -->
-<div style="margin: 30px 0;">
-  <span class="slide-item" style="animation-delay: 0.1s;">🔧 Reverse Engineering</span>
-  <span class="slide-item" style="animation-delay: 0.2s;">💻 Python / C++ / Rust</span>
-  <span class="slide-item" style="animation-delay: 0.3s;">🛡️ Exploit Dev</span>
-  <span class="slide-item" style="animation-delay: 0.4s;">🧠 Malware Analysis</span>
-  <span class="slide-item" style="animation-delay: 0.5s;">🌐 Binary Exploitation</span>
-  <span class="slide-item" style="animation-delay: 0.6s;">⚙️ Fuzzing / SMT</span>
-  <span class="slide-item" style="animation-delay: 0.7s;">🔬 OSINT</span>
-  <span class="slide-item" style="animation-delay: 0.8s;">🕵️‍♂️ Forensics</span>
-</div>
+<a href="https://github.com/NOVA144Hz">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00ff9c"/>
+</a><br><br>
 
-<!-- Stats cards with float -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 25px 0;">
-  <div class="float-card" style="animation-delay: 0s;">
-    <span style="font-size: 1.5rem;">🔓</span><br>
-    <span style="color: #ff007f; font-weight: bold;">1,247</span> Repos
-  </div>
-  <div class="float-card" style="animation-delay: 0.5s;">
-    <span style="font-size: 1.5rem;">⚠️</span><br>
-    <span style="color: #ffaa00;">14</span> CVEs
-  </div>
-  <div class="float-card" style="animation-delay: 1s;">
-    <span style="font-size: 1.5rem;">🧩</span><br>
-    <span style="color: #00ff88;">90%</span> Code Coverage
-  </div>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=600&color=00FF9C&center=true&vCenter=true&width=650&height=70&lines=%3E+SESSION+ENDING...;%3E+ENCRYPTING+TRACE...;%3E+DELETING+LOGS...;%3E+CONNECTION+CLOSED." /><br><br>
 
-<!-- Drifting binary line (each char has own animation? But block is fine) -->
-<div style="text-align: center; margin: 20px 0;">
-  <span class="binary-drift" style="animation-duration: 2s;">0</span>
-  <span class="binary-drift" style="animation-duration: 2.3s;">1</span>
-  <span class="binary-drift" style="animation-duration: 2.7s;">1</span>
-  <span class="binary-drift" style="animation-duration: 1.9s;">0</span>
-  <span class="binary-drift" style="animation-duration: 3.1s;">1</span>
-  <span class="binary-drift" style="animation-duration: 2.5s;">0</span>
-  <span class="binary-drift" style="animation-duration: 2.2s;">1</span>
-  <span class="binary-drift" style="animation-duration: 2.8s;">1</span>
-  <span class="binary-drift" style="animation-duration: 1.8s;">0</span>
-  <span class="binary-drift" style="animation-duration: 2.6s;">1</span>
-  <span class="binary-drift" style="animation-duration: 3.0s;">0</span>
-  <span class="binary-drift" style="animation-duration: 2.1s;">1</span>
-</div>
-
-<!-- Quote with bounce -->
-<div style="text-align: center; margin-top: 30px; font-size: 1.1rem;">
-  <span class="bounce-text" style="color: #9d4edd;">"In reversing we trust. Every byte has a story."</span>
-</div>
-
-<!-- Footer with glow drift -->
-<div style="margin-top: 40px; text-align: center;">
-  <span style="display: inline-block; animation: neon-pulse 2.5s infinite alternate; color: #b200ff;">
-    🔥 NOVA144Hz · 0xDEADBEEF 🔥
-  </span>
-  <br><br>
-  <!-- Animated SVG indicator (pulse circle) -->
-  <svg width="30" height="30" viewBox="0 0 30 30" style="animation: neon-pulse 1s infinite;">
-    <circle cx="15" cy="15" r="10" fill="#ff00c1" opacity="0.8"/>
-    <circle cx="15" cy="15" r="5" fill="white" opacity="0.6"/>
-  </svg>
-</div>
-
-</body>
-</html>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,35:001a13,70:00ff9c,100:000000&section=footer&animation=fadeIn"/></div>
